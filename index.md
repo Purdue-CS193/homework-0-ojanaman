@@ -1,3 +1,17 @@
+# Om Janamanchi's First CS193 Homework
+
+## Favorite Things About CS193...
+- My instructor Armaan Kumar
+- CS193 meets once a week, and Pso is optional
+- CS193 is a fun class to be in
+- Learning Git is cool
+- I got a 10/10 on my first homework assignment
+
+CS193/homework-0-ojanaman website link - https://purdue-cs193.github.io/homework-0-ojanaman/
+
+### Above is my homework github website, below is the template website content.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
