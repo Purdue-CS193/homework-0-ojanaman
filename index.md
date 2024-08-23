@@ -7,7 +7,7 @@
 - Learning Git is cool
 - I got a 10/10 on my first homework assignment
 
-CS193/homework-0-ojanaman website link - https://purdue-cs193.github.io/homework-0-ojanaman/
+[CS193/homework-0-ojanaman website link](https://purdue-cs193.github.io/homework-0-ojanaman/)
 
 ### Above is my homework github website, below is the template website content.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
